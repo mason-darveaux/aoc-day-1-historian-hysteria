@@ -1,0 +1,1 @@
+# aoc-day-1-historian-hysteria
